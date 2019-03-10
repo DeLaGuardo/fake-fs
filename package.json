@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/DeLaGuardo/fake-fs.git"
   },
-  "author": "",
+  "author": "DeLaGuardo",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DeLaGuardo/fake-fs/issues"
