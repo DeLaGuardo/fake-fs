@@ -1,0 +1,19 @@
+{
+  "description": "Fake package.json for require('fs')",
+  "main": "fs.js",
+  "name": "fs",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeLaGuardo/fake-fs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeLaGuardo/fake-fs/issues"
+  },
+  "homepage": "https://github.com/DeLaGuardo/fake-fs#readme"
+}
